@@ -3,7 +3,7 @@ from django.contrib.auth import get_user_model
 import uuid
 from datetime import datetime
 
-from django.forms import CharField
+
 
 User = get_user_model()
 
